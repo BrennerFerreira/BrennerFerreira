@@ -12,6 +12,9 @@ I have developed mobile apps using Dart, with the Flutter framework, and develop
 ### Golang
 - [Small Golang projects](https://github.com/BrennerFerreira/golang)
 
+### Typescript
+- [Express API](https://github.com/BrennerFerreira/typescript_express_api)
+
 ## Open for Work
 I am searching for jobs in web development (front end, back end and full stack) and mobile development.
 
