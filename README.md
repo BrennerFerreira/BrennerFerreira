@@ -9,9 +9,6 @@ I have developed mobile apps using Dart, with the Flutter framework, and develop
 - [Finnancer](https://github.com/BrennerFerreira/personal_expenses_app)
 - [To Do List App](https://github.com/BrennerFerreira/to_do_list_app_flutter)
 
-### Golang
-- [Small Golang projects](https://github.com/BrennerFerreira/golang)
-
 ### Typescript
 - [Express API](https://github.com/BrennerFerreira/typescript_express_api)
 
