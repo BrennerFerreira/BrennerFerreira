@@ -6,9 +6,9 @@ I graduated in Physics and I am passionate about the web and mobile development 
 I have developed mobile apps using Dart, with the Flutter framework, and developed web projects with Javascript (full stack) and Go (back end).
 
 ### Flutter
-- [Pay Flow](https://github.com/BrennerFerreira/pay_flow)
-- [Finnancer](https://github.com/BrennerFerreira/personal_expenses_app)
-- [To Do List App](https://github.com/BrennerFerreira/to_do_list_app_flutter)
+- Pay Flow: [Repository](https://github.com/BrennerFerreira/pay_flow) | [Google Play](https://play.google.com/store/apps/details?id=com.brennerferreira.boleto_organizer.prod)
+- Finnancer: [Repository](https://github.com/BrennerFerreira/personal_expenses_app) | [Google Play](https://play.google.com/store/apps/details?id=com.brennerferreira.personal_expenses)
+- To Do List: [Repository](https://github.com/BrennerFerreira/to_do_list_app_flutter) | [Google Play](https://play.google.com/store/apps/details?id=com.brennerferreira.to_do_list)
 
 ### Typescript
 - [Express API](https://github.com/BrennerFerreira/typescript_express_api)
