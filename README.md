@@ -9,6 +9,7 @@ I have developed mobile apps using Dart, with the Flutter framework, and develop
 - Pay Flow: [Repository](https://github.com/BrennerFerreira/pay_flow) | [Google Play](https://play.google.com/store/apps/details?id=com.brennerferreira.boleto_organizer.prod)
 - Finnancer: [Repository](https://github.com/BrennerFerreira/personal_expenses_app) | [Google Play](https://play.google.com/store/apps/details?id=com.brennerferreira.personal_expenses)
 - To Do List: [Repository](https://github.com/BrennerFerreira/to_do_list_app_flutter) | [Google Play](https://play.google.com/store/apps/details?id=com.brennerferreira.to_do_list)
+- Star Wars Favorites: [Repository](https://github.com/BrennerFerreira/teste_tecnico_03_escribo_inovacao)
 
 ### Typescript
 - [Express API](https://github.com/BrennerFerreira/typescript_express_api)
