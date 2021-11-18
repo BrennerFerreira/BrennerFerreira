@@ -1,6 +1,6 @@
 # Hi, I'm Brenner Ferreira
 ## About me
-I graduated in Physics and I am passionate about the web and mobile development field. I studied at Espirito Santo State University and, at the moment, I work as a permanent Physics teacher, but I am looking to change my career. I am enrolled in the Business Intelligence & Analytics specialization at Pontifícia Universidade Católica, in the state of Minas Gerais. I have been studying programming for over a year, focusing on mobile and web development.
+I graduated in Physics and I am passionate about the web and mobile development field. I studied at Espirito Santo State University and, at the moment, I work as a mobile developer. I have been studying programming for over a year, focusing on mobile and web development. I have experience with cross-platform mobile development with Dart/Flutter, web front-end development with React and Next, and back-end development with Node, using Express (JavaScript and TypeScript) and NestJS.
 
 ## Personal Projects
 I have developed mobile apps using Dart, with the Flutter framework, and developed web projects with Javascript and Typescript (full stack).
