@@ -14,6 +14,21 @@ I have developed mobile apps using Dart, with the Flutter framework, and develop
 ### Typescript
 - [Express API](https://github.com/BrennerFerreira/typescript_express_api)
 
-## Open for Work
-I am searching for jobs in web development (front end, back end and full stack) and mobile development.
+## GitHub Estatísticas
+
+<a href="https://github.com/BrennerFerreira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennerferreira&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/BrennerFerreira">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=brennerferreira&show_icons=true&theme=dracula&line_height=27" alt="Brenner Ferreira github stats"/>
+</a>
+
+<br>
+
+## Contato
+
+Site pessoal: <a href="https://brennerferreira.com/">https://brennerferreira.com/</a><br>
+Instagram: <a href="https://www.instagram.com/brennercsferreira/">https://www.instagram.com/brennercsferreira/</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/brennercsferreira/">https://www.linkedin.com/in/brennercsferreira/</a><br>
 
