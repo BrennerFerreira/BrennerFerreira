@@ -1,34 +1,22 @@
-# Hi, I'm Brenner Ferreira
-## About me
-I graduated in Physics and I am passionate about the web and mobile development field. I studied at Espirito Santo State University and, at the moment, I work as a mobile developer. I have been studying programming for over a year, focusing on mobile and web development. I have experience with cross-platform mobile development with Dart/Flutter, web front-end development with React and Next, and back-end development with Node, using Express (JavaScript and TypeScript) and NestJS.
+### Hi, I'm Brenner 👋
 
-## Personal Projects
-I have developed mobile apps using Dart, with the Flutter framework, and developed web projects with Javascript and Typescript (full stack).
+Senior mobile engineer building production iOS and Android apps with **Flutter**, **React Native** and native **Swift/Kotlin**. Fully remote since 2022, based in Brazil (UTC−3).
 
-### Flutter
-- Pay Flow: [Repository](https://github.com/BrennerFerreira/pay_flow) | [Google Play](https://play.google.com/store/apps/details?id=com.brennerferreira.boleto_organizer.prod)
-- Finnancer: [Repository](https://github.com/BrennerFerreira/personal_expenses_app) | [Google Play](https://play.google.com/store/apps/details?id=com.brennerferreira.personal_expenses)
-- To Do List: [Repository](https://github.com/BrennerFerreira/to_do_list_app_flutter) | [Google Play](https://play.google.com/store/apps/details?id=com.brennerferreira.to_do_list)
-- Star Wars Favorites: [Repository](https://github.com/BrennerFerreira/teste_tecnico_03_escribo_inovacao)
+🔎 **Open to remote mobile roles**. Full-time via EOR or contractor.
 
-### Typescript
-- [Express API](https://github.com/BrennerFerreira/typescript_express_api)
+#### What I've built
 
-## GitHub Estatísticas
+- **Kiwify app (Flutter)**: sole mobile engineer for 4+ years on a creator-economy app that grew from 300k to 1.5M+ users. ~4,700 commits, 140+ store releases.
+- **Native video player**: led it end to end on ExoPlayer and AVFoundation, with quality selection, next-video warm-up, Chromecast/AirPlay, picture-in-picture, background audio and data saving, rolled out gradually through remote config.
+- **Kiwify Conta Digital (React Native)**: digital payments account app. Built its security SDK (App Attest, Play Integrity, request signing) and a server-driven UI engine.
+- **Engineering culture**: testing from scratch (800+ test files), CI/CD, observability, and AI-agent guides the team works from.
 
-<a href="https://github.com/BrennerFerreira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennerferreira&theme=dracula&hide_langs_below=1" />
-</a>
+#### Stack
 
-<a href="https://github.com/BrennerFerreira">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=brennerferreira&show_icons=true&theme=dracula&line_height=27" alt="Brenner Ferreira github stats"/>
-</a>
+`Flutter` `Dart` `React Native` `TypeScript` `Expo` `Swift` `Kotlin` `ExoPlayer` `AVFoundation` `Firebase` `Codemagic` `Datadog`
 
-<br>
+Most of my work lives in private company repositories, so the code here is personal and open-source work.
 
-## Contato
+#### Find me
 
-Site pessoal: <a href="https://brennerferreira.com/">https://brennerferreira.com/</a><br>
-Instagram: <a href="https://www.instagram.com/brennercsferreira/">https://www.instagram.com/brennercsferreira/</a><br>
-LinkedIn: <a href="https://www.linkedin.com/in/brennercsferreira/">https://www.linkedin.com/in/brennercsferreira/</a><br>
-
+[LinkedIn](https://www.linkedin.com/in/brennercsferreira) · [Portfolio](https://brennerferreira.com) · [Email](contact@brennerferreira.com)
